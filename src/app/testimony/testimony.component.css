@@ -1,0 +1,32 @@
+#carouselExampleInterval{
+    width: 90%;
+}
+#carouselExampleInterval .carousel-item{
+    height: 400px;
+    width: 1200px;
+    border-radius: 8px;
+    background-color: hotpink;
+    text-align: center;
+}
+#carouselExampleInterval img{
+    height: 400px;
+    width: 500px;
+    border-radius: 8px;
+}
+h1{
+    color: white;
+    font-family: 'Brush Script MT', cursive;text-align: center;
+ }
+ h3{
+    font-family: "Lucida Console", "Courier New", monospace;
+ }
+ h4{
+    font-family: Arial, Helvetica, sans-serif
+ }
+.slide{
+    margin-left: 70px;
+}
+
+.icon{
+    font-size: 50px;
+}
